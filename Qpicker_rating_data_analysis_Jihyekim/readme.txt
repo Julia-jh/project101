@@ -21,7 +21,7 @@
     seaborn
     time
     selenium
-    By
+
 
 - reference
     https://signing.tistory.com/44
@@ -36,5 +36,6 @@
         https://velog.io/@hwang-eunji/python-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-feat.-selenium-2-%EC%8B%A4%EC%8A%B5
     https://www.kaggle.com/datasets/lava18/google-play-store-apps
     
-    
-    
+    https://greeksharifa.github.io/references/2020/10/30/python-selenium-usage/
+    https://liveyourit.tistory.com/17
+    https://dejavuhyo.github.io/posts/patterns-for-writing-better-git-commit-messages/
